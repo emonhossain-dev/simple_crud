@@ -1,15 +1,26 @@
 # 📱 Simple CRUD App (Flutter)
 
-A simple and clean CRUD (Create, Read, Update, Delete) application built using **Flutter**.  
-This project is perfect for beginners who want to understand how CRUD operations work in a mobile app.
+<p align="center">
+  <img src="Simple_CRUD_App_in_Flutter_GitHub_Project_by_MD_Emon_Hossain.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/emonhossain-dev/simple_crud">
+    <img src="https://img.shields.io/badge/GitHub-View_Code-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-## 🚀 Live Preview
+## 🚀 APK Download
 
-![App Preview](Simple_CRUD_App_in_Flutter_GitHub_Project_by_MD_Emon_Hossain.jpg)
+<p align="center">
+  <a href="app-release.apk" download>
+    <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android">
+  </a>
+</p>
 
-> ⚠️ Note: Replace the image path with your actual uploaded image path.
+> 📥 Click the button above to download and install the app.
 
 ---
 
@@ -31,4 +42,9 @@ This project is perfect for beginners who want to understand how CRUD operations
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/emonhossain-dev/simple_crud.git
