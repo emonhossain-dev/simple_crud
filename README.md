@@ -1,16 +1,34 @@
-# curd_tudo
+# 📱 Simple CRUD App (Flutter)
 
-A new Flutter project.
+A simple and clean CRUD (Create, Read, Update, Delete) application built using **Flutter**.  
+This project is perfect for beginners who want to understand how CRUD operations work in a mobile app.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Live Preview
 
-A few resources to get you started if this is your first Flutter project:
+![App Preview](Simple_CRUD_App_in_Flutter_GitHub_Project_by_MD_Emon_Hossain.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> ⚠️ Note: Replace the image path with your actual uploaded image path.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- ➕ Add new data  
+- 📋 View all data  
+- ✏️ Update existing data  
+- ❌ Delete data  
+- 🎨 Clean and simple UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter  
+- Dart  
+- Material UI  
+
+---
+
+## 📂 Project Structure
