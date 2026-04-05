@@ -1,7 +1,7 @@
 # 📱 Simple CRUD App (Flutter)
 
 <p align="center">
-  <img src="Simple_CRUD_App_in_Flutter_GitHub_Project_by_MD_Emon_Hossain.jpg" width="300"/>
+  <img src="Simple_CRUD_App_in_Flutter_GitHub_Project_by_MD_Emon_Hossain.jpg" width="400"/>
 </p>
 
 <p align="center">
